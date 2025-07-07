@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNIC Validator</title>
+    
+    
+</head>
+<body>
+    <h1>CNIC Validator</h1>
+    <input type="text" id="cnicInput" placeholder="Enter CNIC (XXXXX-XXXXXXX-X)" />
+    <div class="result" id="validationResult"></div>
+
+    <script>
+        const cnicInput = document.getElementById('cnicInput');
+        const validationResult = document.getElementById('validationResult');
+
+        // Regular expression for CNIC format
+        const cnicRegex = /^\d{5}-\d{7}-\d{1}$/;
+
+        // Event listener for input field
+        cnicInput.addEventListener('input', () => {
+            const cnicValue = cnicInput.value;
+            if (cnicRegex.test(cnicValue)) {
+                validationResult.textContent = 'Valid CNIC format!';
+                validationResult.className = 'result valid';
+            } else {
+                validationResult.textContent = 'Invalid CNIC format. Correct format: XXXXX-XXXXXXX-X';
+                validationResult.className = 'result invalid';
+            }
+        });
+    </script>
+</body>
+</html>
