@@ -4,8 +4,7 @@ A full-stack web application for managing a catalog of wedding dresses. This pro
 
 The frontend is built with **React** and **Vite** for a fast and modern user experience, while the backend is powered by **Node.js** and **Express.js** to handle API requests and interact with a SQL database.
 
-![App Screenshot](./app-screenshot.png)
-*(To add the screenshot, create a folder named `images` in your project's root directory and place your screenshot inside it with the name `app-screenshot.png`)*
+
 
 ## ✨ Features
 
