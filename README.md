@@ -3,13 +3,6 @@
 A full-stack web application for managing a catalog of wedding dresses. This project provides a complete CRUD (Create, Read, Update, Delete) interface for an administrator to manage the inventory.
 
 The frontend is built with **React** and **Vite** for a fast and modern user experience, while the backend is powered by **Node.js** and **Express.js** to handle API requests and interact with a SQL database.
-## 📸 Screenshots
-
-<img src="https://raw.githubusercontent.com/NoorMustafa4556/Wedding-Dresses-App-React/master/public/images/1.jpg" width="300"/>
-<img src="https://raw.githubusercontent.com/NoorMustafa4556/Wedding-Dresses-App-React/master/public/images/2.jpg" width="300"/>
-<img src="https://raw.githubusercontent.com/NoorMustafa4556/Wedding-Dresses-App-React/master/public/images/3.jpg" width="300"/>
-<img src="https://raw.githubusercontent.com/NoorMustafa4556/Wedding-Dresses-App-React/master/public/images/4.jpg" width="300"/>
-
 
 
 ## ✨ Features
