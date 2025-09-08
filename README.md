@@ -53,15 +53,15 @@ Make sure you have the following software installed on your system:
 
 3.  **Set Up and Run the Backend Server:**
     
-    # Navigate to the backend directory
+    ## Navigate to the backend directory
     ```bash
     cd backend
     ```
-    # Install the required npm packages
+    ## Install the required npm packages
     ```bash
     npm install
     ```
-    # Start the server
+    ## Start the server
     ```bash
     node server.js
     ```
@@ -70,15 +70,15 @@ Make sure you have the following software installed on your system:
 5.  **Set Up and Run the Frontend Application:**
     -   Open a **new terminal window**.
    
-    # Navigate to the frontend directory from the project root
+    ## Navigate to the frontend directory from the project root
      ```bash
     cd frontend
     ```
-    # Install the required npm packages
+    ## Install the required npm packages
     ```bash
     npm install
     ```
-    # Start the development server
+    ## Start the development server
     ```bash
     npm run dev
     ```
