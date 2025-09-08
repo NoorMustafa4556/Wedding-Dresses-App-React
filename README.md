@@ -52,32 +52,38 @@ Make sure you have the following software installed on your system:
     -   **Important:** Open the `backend/server.js` file and update the database connection credentials (host, user, password, database name) to match your local setup.
 
 3.  **Set Up and Run the Backend Server:**
-    ```bash
+    
     # Navigate to the backend directory
+    ```bash
     cd backend
-
+    ```
     # Install the required npm packages
+    ```bash
     npm install
-
+    ```
     # Start the server
+    ```bash
     node server.js
     ```
     The backend server should now be running, typically on `http://localhost:8081`.
 
-4.  **Set Up and Run the Frontend Application:**
+5.  **Set Up and Run the Frontend Application:**
     -   Open a **new terminal window**.
-    ```bash
+   
     # Navigate to the frontend directory from the project root
+     ```bash
     cd frontend
-
+    ```
     # Install the required npm packages
+    ```bash
     npm install
-
+    ```
     # Start the development server
+    ```bash
     npm run dev
     ```
 
-5.  **Access the Application:**
+7.  **Access the Application:**
     -   The `npm run dev` command will output a local URL, usually `http://localhost:5173`.
     -   Open your web browser and navigate to this URL.
     -   You should now see the wedding dresses list and be able to interact with the application.
