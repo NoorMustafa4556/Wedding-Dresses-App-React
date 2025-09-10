@@ -41,6 +41,9 @@ Make sure you have the following software installed on your system:
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/NoorMustafa4556/Wedding-Dresses-App-React.git
+     ```
+    
+    ```bash
     cd Wedding-Dresses-App-React
     ```
 
@@ -89,7 +92,7 @@ Make sure you have the following software installed on your system:
     -   You should now see the wedding dresses list and be able to interact with the application.
   
 
-      # 👋 Hi, I'm Noor Mustafa
+      # 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
@@ -99,7 +102,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 🚀 What I Do
 
-- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🧑🏻💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
 - 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
 - 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
 - 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
